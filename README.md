@@ -2,7 +2,7 @@
 <h2>✅ Your Portfolio Link :</h2>
 <h3></h3>
 <h3>✅ GitHub profile : UtsavKoppad</h3>
-<h2>✅ Featured Projects</h2><br>
+<h2>✅ Featured Projects</h2>
 <h3>AI Interview System & Student Management System</h3>
 <h2>✅ Contact details</h2>
 <h3>Email : utsavkoppad@gmail.com</h3>
